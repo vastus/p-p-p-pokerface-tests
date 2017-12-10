@@ -84,6 +84,7 @@
  low-ace-straight-hand      true
  ["2H" "2D" "3H" "4H" "5H"] false
  ["2H" "3H" "3D" "4H" "6H"] false
+ ["2H" "3H" "4D" "5H" "7H"] false
  high-ace-straight-hand     true)
 
 (facts "straight-flush?" {:exercise 10
